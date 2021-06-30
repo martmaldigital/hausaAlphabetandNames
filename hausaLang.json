@@ -1,634 +1,630 @@
-[
-	{
-		"hausaAlphabets": [
-			{
-				"upperCase": "A",
-				"lowerCase": "a",
-				"englishSound": "/a/",
-				"pronounciationExample": "short 'a' as in rat, long 'a' as in father."
-			},
-			{
-				"upperCase": "B",
-				"lowerCase": "b",
-				"englishSound": "/b/",
-				"pronounciationExample": "'b' as in bed"
-			},
-			{
-				"upperCase": "Ɓ",
-				"lowerCase": "ɓ",
-				"englishSound": "/ɓ/",
-				"pronounciationExample": "an implosive 'b'"
-			},
-			{
-				"upperCase": "C",
-				"lowerCase": "c",
-				"englishSound": "/tʃ/",
-				"pronounciationExample": "'ch' as as in child"
-			},
-			{
-				"upperCase": "D",
-				"lowerCase": "d",
-				"englishSound": "/d/",
-				"pronounciationExample": "'d' as in dog"
-			},
-			{
-				"upperCase": "Ɗ",
-				"lowerCase": "ɗ",
-				"englishSound": "/ɗ/",
-				"pronounciationExample": "representing an implosive 'd'"
-			},
-			{
-				"upperCase": "E",
-				"lowerCase": "e",
-				"englishSound": "/e/",
-				"pronounciationExample": "short 'e' as in get, long 'a' as in that"
-			},
-			{
-				"upperCase": "F",
-				"lowerCase": "f",
-				"englishSound": "/ɸ/",
-				"pronounciationExample": "'f' as in fat"
-			},
-			{
-				"upperCase": "G",
-				"lowerCase": "g",
-				"englishSound": "/ɡ/",
-				"pronounciationExample": "'g' as in go"
-			},
-			{
-				"upperCase": "H",
-				"lowerCase": "h",
-				"englishSound": "/h/",
-				"pronounciationExample": "'h' as in hat"
-			},
-			{
-				"upperCase": "I",
-				"lowerCase": "i",
-				"englishSound": "/i/",
-				"pronounciationExample": "short 'i' as in hit, long 'e' as in elephant"
-			},
-			{
-				"upperCase": "J",
-				"lowerCase": "j",
-				"englishSound": "/(d)ʒ/",
-				"pronounciationExample": "'j' as in joke"
-			},
-			{
-				"upperCase": "K",
-				"lowerCase": "k",
-				"englishSound": "/kʼ/",
-				"pronounciationExample": "an ejective 'k'"
-			},
-			{
-				"upperCase": "Ƙ",
-				"lowerCase": "ƙ",
-				"englishSound": "/kʼ/",
-				"pronounciationExample": "an ejective 'k'"
-			},
-			{
-				"upperCase": "L",
-				"lowerCase": "l",
-				"englishSound": "/l/",
-				"pronounciationExample": "'l' as in leg"
-			},
-			{
-				"upperCase": "M",
-				"lowerCase": "m",
-				"englishSound": "/m/",
-				"pronounciationExample": "'m' as in man"
-			},
-			{
-				"upperCase": "N",
-				"lowerCase": "n",
-				"englishSound": "/n/",
-				"pronounciationExample": "'n' as in nice"
-			},
-			{
-				"upperCase": "O",
-				"lowerCase": "o",
-				"englishSound": "/o/",
-				"pronounciationExample": "short 'o' as in hot, long 'o' as in tool"
-			},
-			{
-				"upperCase": "R",
-				"lowerCase": "r",
-				"englishSound": "/r/",
-				"pronounciationExample": "flapped r' as in Scots English"
-			},
-			{
-				"upperCase": "R",
-				"lowerCase": "'r",
-				"englishSound": "/ɽ/",
-				"pronounciationExample": "flapped r' or 'trilled r' as as in Scots English"
-			},
-			{
-				"upperCase": "S",
-				"lowerCase": "s",
-				"englishSound": "/s/",
-				"pronounciationExample": "'s' as in smile"
-			},
-			{
-				"upperCase": "Sh",
-				"lowerCase": "sh",
-				"englishSound": "/ʃ/",
-				"pronounciationExample": "'sh' as in shout"
-			},
-			{
-				"upperCase": "T",
-				"lowerCase": "t",
-				"englishSound": "/t/",
-				"pronounciationExample": "'t' as in ten"
-			},
-			{
-				"upperCase": "Ts",
-				"lowerCase": "ts",
-				"englishSound": "/(t)sʼ/",
-				"pronounciationExample": "'t' as in tutor"
-			},
-			{
-				"upperCase": "U",
-				"lowerCase": "u",
-				"englishSound": "/u/",
-				"pronounciationExample": "short 'u' as in put, long 'oo' as in look"
-			},
-			{
-				"upperCase": "W",
-				"lowerCase": "w",
-				"englishSound": "/w/",
-				"pronounciationExample": "'w' as in win"
-			},
-			{
-				"upperCase": "Y",
-				"lowerCase": "y",
-				"englishSound": "/j/",
-				"pronounciationExample": "'y' as in you"
-			},
-			{
-				"upperCase": "Ƴ",
-				"lowerCase": "ƴ",
-				"englishSound": "/ʔʲ/",
-				"pronounciationExample": "'y' as in yes"
-			},
-			{
-				"upperCase": "Z",
-				"lowerCase": "z",
-				"englishSound": "/z/",
-				"pronounciationExample": "'z' as in zebra"
-			},
-			{
-				"upperCase": "'",
-				"lowerCase": "'",
-				"englishSound": "/ʔ/",
-				"pronounciationExample": "glottal stop"
-			}
-		]
-	},
-	{
-		"hausaNames": [
-			{
-				"name": "adamu",
-				"meaning": "adam"
-			},
-			{
-				"name": "adare",
-				"meaning": "A male child who was born at night."
-			},
-			{
-				"name": "agada",
-				"meaning": "Brother or sister of twins."
-			},
-			{
-				"name": "ali",
-				"meaning": "excellent or noble"
-			},
-			{
-				"name": "aminu",
-				"meaning": "reliable and trustworthy person"
-			},
-			{
-				"name": "amir",
-				"meaning": "ruler, prince or commander"
-			},
-			{
-				"name": "anaruwa",
-				"meaning": "water bearer"
-			},
-			{
-				"name": "ango",
-				"meaning": "A male child who was born during a marriage ceremony in a household or family."
-			},
-			{
-				"name": "auta",
-				"meaning": "last born in a family"
-			},
-			{
-				"name": "arzika",
-				"meaning": "A male child whose mother undergoes severe child labour before he was eventually given to birth."
-			},
-			{
-				"name": "babba",
-				"meaning": "A big-brother to one or elder brother."
-			},
-			{
-				"name": "baki",
-				"meaning": "One who is black in complexion."
-			},
-			{
-				"name": "bako",
-				"meaning": "A male child who was born after the arrival of visitors in a household."
-			},
-			{
-				"name": "bakwai",
-				"meaning": "A seventh male child in a family."
-			},
-			{
-				"name": "babangida",
-				"meaning": "This name is given to a child who bears the same name with his grandfather in a family and because in-laws are shy to directly call the child by his normal name, they nickname him Babangida, master of the household."
-			},
-			{
-				"name": "bara",
-				"meaning": "A first male child who was born after his siblings are all females. Bara in Hausa means to beg i.e they begged him out."
-			},
-			{
-				"name": "balarabe",
-				"meaning": "male child born on wednesday"
-			},
-			{
-				"name": "barau",
-				"meaning": "A remaining son who was born after his successors are dying."
-			},
-			{
-				"name": "bashir",
-				"meaning": "someone who brings good news"
-			},
-			{
-				"name": "bawa",
-				"meaning": "A male child who was brought up by another woman, that was not his mother."
-			},
-			{
-				"name": "bilal",
-				"meaning": "a companion of the prophet"
-			},
-			{
-				"name": "dadba",
-				"meaning": "A son who was born of relative couples."
-			},
-			{
-				"name": "danasabe",
-				"meaning": "child born on saturday"
-			},
-			{
-				"name": "dangali",
-				"meaning": "An only son in a family."
-			},
-			{
-				"name": "danjuma",
-				"meaning": "male child born on friday"
-			},
-			{
-				"name": "danladi",
-				"meaning": "male child born on Sunday"
-			},
-			{
-				"name": "danlami",
-				"meaning": "male child born on Thursday"
-			},
-			{
-				"name": "daran",
-				"meaning": "born at night, small and great"
-			},
-			{
-				"name": "dare",
-				"meaning": "means born at night, small and great"
-			},
-			{
-				"name": "daren",
-				"meaning": "means born at night, small and great"
-			},
-			{
-				"name": "Ɗari",
-				"meaning": "One who was born during the excess cold."
-			},
-			{
-				"name": "‘Dari",
-				"meaning": "One who was born during the excess cold."
-			},
-			{
-				"name": "dawo",
-				"meaning": "A male child who was born when his mother was pounding millet delicacy used in preparing Hura."
-			},
-			{
-				"name": "dawi",
-				"meaning": "A male child who was born in a season when his father harvested plentiful bundles of Guinea-corn."
-			},
-			{
-				"name": "dandawo",
-				"meaning": "A male child who was born when his mother was pounding millet delicacy used in preparing Hura."
-			},
-			{
-				"name": "duna",
-				"meaning": "One who is black in complexion."
-			},
-			{
-				"name": "fari",
-				"meaning": "A person who was fair in complexion."
-			},
-			{
-				"name": "faruq",
-				"meaning": "the distinguisher of truth from falsehood"
-			},
-			{
-				"name": "faisal",
-				"meaning": "decisive"
-			},
-			{
-				"name": "fuad",
-				"meaning": "heart"
-			},
-			{
-				"name": "gaddo",
-				"meaning": "means inheritor"
-			},
-			{
-				"name": "gambo",
-				"meaning": "a child after twins"
-			},
-			{
-				"name": "gerau",
-				"meaning": "A male child who was born in a season when his father harvested abundant bundles of Millet stalks."
-			},
-			{
-				"name": "gowon",
-				"meaning": "rainmaker"
-			},
-			{
-				"name": "guntau",
-				"meaning": "short man"
-			},
-			{
-				"name": "hankurau",
-				"meaning": "A husband who was extremely patient in a community."
-			},
-			{
-				"name": "hassan",
-				"meaning": "means good, beautiful, beautifier"
-			},
-			{
-				"name": "hussain",
-				"meaning": "first boy in a set of twins"
-			},
-			{
-				"name": "hussain",
-				"meaning": "second boy in a set of twins"
-			},
-			{
-				"name": "habib",
-				"meaning": "beloved"
-			},
-			{
-				"name": "hadi",
-				"meaning": "calm person"
-			},
-			{
-				"name": "hafiz",
-				"meaning": "a guardian or protector"
-			},
-			{
-				"name": "hamzah",
-				"meaning": "lion"
-			},
-			{
-				"name": "hana",
-				"meaning": "A male child who was born in a family while they are mourning the death of a family member."
-			},
-			{
-				"name": "hantsi",
-				"meaning": "A male child who was born at dawn."
-			},
-			{
-				"name": "hwari",
-				"meaning": "A person who was fair in complexion."
-			},
-			{
-				"name": "imam",
-				"meaning": "leader"
-			},
-			{
-				"name": "isa",
-				"meaning": "Jesus"
-			},
-			{
-				"name": "ismaila",
-				"meaning": "Ishmael"
-			},
-			{
-				"name": "jalil",
-				"meaning": "exalted"
-			},
-			{
-				"name": "jamal",
-				"meaning": "beauty and grace"
-			},
-			{
-				"name": "jariri",
-				"meaning": "One who was extremely thin at the time of birth."
-			},
-			{
-				"name": "jatau",
-				"meaning": "A person who was fair in complexion."
-			},
-			{
-				"name": "jibril",
-				"meaning": "archangel"
-			},
-			{
-				"name": "jigo",
-				"meaning": "Leader. An only son born in the midst of sisters, so he is their leader."
-			},
-			{
-				"name": "jika",
-				"meaning": "Grandson to a person. A person who bore someone's grandchild name."
-			},
-			{
-				"name": "Kadaɗe",
-				"meaning": "A male child who was born after his parents have been baren for years before he was eventually born."
-			},
-			{
-				"name": "Kadad’e",
-				"meaning": "A male child who was born after his parents have been baren for years before he was eventually born."
-			},
-			{
-				"name": "kaka",
-				"meaning": "A person who bore someone's grandparents names."
-			},
-			{
-				"name": "kane",
-				"meaning": "Younger brother to one."
-			},
-			{
-				"name": "karami",
-				"meaning": "thin man or younger one."
-			},
-			{
-				"name": "kasu",
-				"meaning": "A male child who was born at the market or on market day."
-			},
-			{
-				"name": "kasuwa",
-				"meaning": "A male child who was born at the market or on market day."
-			},
-			{
-				"name": "kokari",
-				"meaning": "A person who was hardworking in a community."
-			},
-			{
-				"name": "korau",
-				"meaning": "One who was born when his mother was divorced."
-			},
-			{
-				"name": "kulau",
-				"meaning": "A most loved male child in a family."
-			},
-			{
-				"name": "madugu",
-				"meaning": "A male child who was born during travel or born in the process of travelling."
-			},
-			{
-				"name": "makau",
-				"meaning": "A male child who was born when it was raining cat and dog in a community."
-			},
-			{
-				"name": "makao",
-				"meaning": "A male child who was born when it was raining cat and dog in a community."
-			},
-			{
-				"name": "maidawa",
-				"meaning": "A male child who was born in a season when his father harvested plentiful bundles of Guinea-corn."
-			},
-			{
-				"name": "maifari",
-				"meaning": "A male child who was born during the drought season."
-			},
-			{
-				"name": "maihwari",
-				"meaning": "A male child who was born during the drought season."
-			},
-			{
-				"name": "maigero",
-				"meaning": "- A male child who was born in a season when his father harvested abundant bundles of Millet stalks."
-			},
-			{
-				"name": "maikasuwa",
-				"meaning": "a trader or a merchant"
-			},
-			{
-				"name": "maikudi",
-				"meaning": "a rich one or wealthy"
-			},
-			{
-				"name": "mailafiya",
-				"meaning": "A person who is calm and easygoing with people in a community."
-			},
-			{
-				"name": "mailahiya",
-				"meaning": "A person who is calm and easygoing with people in a community."
-			},
-			{
-				"name": "maiwake",
-				"meaning": "- A male child who was born in a season when his father harvested a lot of beans."
-			},
-			{
-				"name": "nagoma",
-				"meaning": "A tenth male child in a family."
-			},
-			{
-				"name": "nagona",
-				"meaning": "A male child who was born at the farm."
-			},
-			{
-				"name": "nahantsi",
-				"meaning": "A male child who was born at dawn."
-			},
-			{
-				"name": "nanoma",
-				"meaning": "A male child who was born at the farm."
-			},
-			{
-				"name": "nomau",
-				"meaning": "A male who was born during the farming season."
-			},
-			{
-				"name": "rago",
-				"meaning": "ram"
-			},
-			{
-				"name": "rashidi",
-				"meaning": "means rightly guided, of true faith, mature"
-			},
-			{
-				"name": "ruwa",
-				"meaning": "water bearer"
-			},
-			{
-				"name": "sarki",
-				"meaning": "One who has King name. A male child who bore kings name in a kingdom."
-			},
-			{
-				"name": "shekarau",
-				"meaning": "A baby who make a year in his mother's womb."
-			},
-			{
-				"name": "shibkau",
-				"meaning": "A male who was born during the sowing season."
-			},
-			{
-				"name": "tahir",
-				"meaning": "pure"
-			},
-			{
-				"name": "taminu",
-				"meaning": "means boy born on Litinnin or Monday"
-			},
-			{
-				"name": "tanko",
-				"meaning": "A brother to female children in a family."
-			},
-			{
-				"name": "tawaye",
-				"meaning": "brother to twins"
-			},
-			{
-				"name": "tunau",
-				"meaning": "Can be called Tuni meaning remembering birth. A male child who was born after his mother took a long time before she conceived another pregnancy."
-			},
-			{
-				"name": "umar",
-				"meaning": "lifetime"
-			},
-			{
-				"name": "usman",
-				"meaning": "companion"
-			},
-			{
-				"name": "yakubu",
-				"meaning": "Jacob"
-			},
-			{
-				"name": "yarima",
-				"meaning": "Prince. A male child who bore a respected prince name in a kingdom."
-			},
-			{
-				"name": "yohance",
-				"meaning": "means Yahweh is gracious, Yahweh is merciful"
-			},
-			{
-				"name": "yohanna",
-				"meaning": "john"
-			},
-			{
-				"name": "yusuf",
-				"meaning": "joseph"
-			}
-		]
-	}
-]
+{
+	"hausaAlphabets": [
+		{
+			"upperCase": "A",
+			"lowerCase": "a",
+			"englishSound": "/a/",
+			"pronounciationExample": "short 'a' as in rat, long 'a' as in father."
+		},
+		{
+			"upperCase": "B",
+			"lowerCase": "b",
+			"englishSound": "/b/",
+			"pronounciationExample": "'b' as in bed"
+		},
+		{
+			"upperCase": "Ɓ",
+			"lowerCase": "ɓ",
+			"englishSound": "/ɓ/",
+			"pronounciationExample": "an implosive 'b'"
+		},
+		{
+			"upperCase": "C",
+			"lowerCase": "c",
+			"englishSound": "/tʃ/",
+			"pronounciationExample": "'ch' as as in child"
+		},
+		{
+			"upperCase": "D",
+			"lowerCase": "d",
+			"englishSound": "/d/",
+			"pronounciationExample": "'d' as in dog"
+		},
+		{
+			"upperCase": "Ɗ",
+			"lowerCase": "ɗ",
+			"englishSound": "/ɗ/",
+			"pronounciationExample": "representing an implosive 'd'"
+		},
+		{
+			"upperCase": "E",
+			"lowerCase": "e",
+			"englishSound": "/e/",
+			"pronounciationExample": "short 'e' as in get, long 'a' as in that"
+		},
+		{
+			"upperCase": "F",
+			"lowerCase": "f",
+			"englishSound": "/ɸ/",
+			"pronounciationExample": "'f' as in fat"
+		},
+		{
+			"upperCase": "G",
+			"lowerCase": "g",
+			"englishSound": "/ɡ/",
+			"pronounciationExample": "'g' as in go"
+		},
+		{
+			"upperCase": "H",
+			"lowerCase": "h",
+			"englishSound": "/h/",
+			"pronounciationExample": "'h' as in hat"
+		},
+		{
+			"upperCase": "I",
+			"lowerCase": "i",
+			"englishSound": "/i/",
+			"pronounciationExample": "short 'i' as in hit, long 'e' as in elephant"
+		},
+		{
+			"upperCase": "J",
+			"lowerCase": "j",
+			"englishSound": "/(d)ʒ/",
+			"pronounciationExample": "'j' as in joke"
+		},
+		{
+			"upperCase": "K",
+			"lowerCase": "k",
+			"englishSound": "/kʼ/",
+			"pronounciationExample": "an ejective 'k'"
+		},
+		{
+			"upperCase": "Ƙ",
+			"lowerCase": "ƙ",
+			"englishSound": "/kʼ/",
+			"pronounciationExample": "an ejective 'k'"
+		},
+		{
+			"upperCase": "L",
+			"lowerCase": "l",
+			"englishSound": "/l/",
+			"pronounciationExample": "'l' as in leg"
+		},
+		{
+			"upperCase": "M",
+			"lowerCase": "m",
+			"englishSound": "/m/",
+			"pronounciationExample": "'m' as in man"
+		},
+		{
+			"upperCase": "N",
+			"lowerCase": "n",
+			"englishSound": "/n/",
+			"pronounciationExample": "'n' as in nice"
+		},
+		{
+			"upperCase": "O",
+			"lowerCase": "o",
+			"englishSound": "/o/",
+			"pronounciationExample": "short 'o' as in hot, long 'o' as in tool"
+		},
+		{
+			"upperCase": "R",
+			"lowerCase": "r",
+			"englishSound": "/r/",
+			"pronounciationExample": "flapped r' as in Scots English"
+		},
+		{
+			"upperCase": "R",
+			"lowerCase": "'r",
+			"englishSound": "/ɽ/",
+			"pronounciationExample": "flapped r' or 'trilled r' as as in Scots English"
+		},
+		{
+			"upperCase": "S",
+			"lowerCase": "s",
+			"englishSound": "/s/",
+			"pronounciationExample": "'s' as in smile"
+		},
+		{
+			"upperCase": "Sh",
+			"lowerCase": "sh",
+			"englishSound": "/ʃ/",
+			"pronounciationExample": "'sh' as in shout"
+		},
+		{
+			"upperCase": "T",
+			"lowerCase": "t",
+			"englishSound": "/t/",
+			"pronounciationExample": "'t' as in ten"
+		},
+		{
+			"upperCase": "Ts",
+			"lowerCase": "ts",
+			"englishSound": "/(t)sʼ/",
+			"pronounciationExample": "'t' as in tutor"
+		},
+		{
+			"upperCase": "U",
+			"lowerCase": "u",
+			"englishSound": "/u/",
+			"pronounciationExample": "short 'u' as in put, long 'oo' as in look"
+		},
+		{
+			"upperCase": "W",
+			"lowerCase": "w",
+			"englishSound": "/w/",
+			"pronounciationExample": "'w' as in win"
+		},
+		{
+			"upperCase": "Y",
+			"lowerCase": "y",
+			"englishSound": "/j/",
+			"pronounciationExample": "'y' as in you"
+		},
+		{
+			"upperCase": "Ƴ",
+			"lowerCase": "ƴ",
+			"englishSound": "/ʔʲ/",
+			"pronounciationExample": "'y' as in yes"
+		},
+		{
+			"upperCase": "Z",
+			"lowerCase": "z",
+			"englishSound": "/z/",
+			"pronounciationExample": "'z' as in zebra"
+		},
+		{
+			"upperCase": "'",
+			"lowerCase": "'",
+			"englishSound": "/ʔ/",
+			"pronounciationExample": "glottal stop"
+		}
+	],
+	"hausaNames": [
+		{
+			"name": "adamu",
+			"meaning": "adam"
+		},
+		{
+			"name": "adare",
+			"meaning": "A male child who was born at night."
+		},
+		{
+			"name": "agada",
+			"meaning": "Brother or sister of twins."
+		},
+		{
+			"name": "ali",
+			"meaning": "excellent or noble"
+		},
+		{
+			"name": "aminu",
+			"meaning": "reliable and trustworthy person"
+		},
+		{
+			"name": "amir",
+			"meaning": "ruler, prince or commander"
+		},
+		{
+			"name": "anaruwa",
+			"meaning": "water bearer"
+		},
+		{
+			"name": "ango",
+			"meaning": "A male child who was born during a marriage ceremony in a household or family."
+		},
+		{
+			"name": "auta",
+			"meaning": "last born in a family"
+		},
+		{
+			"name": "arzika",
+			"meaning": "A male child whose mother undergoes severe child labour before he was eventually given to birth."
+		},
+		{
+			"name": "babba",
+			"meaning": "A big-brother to one or elder brother."
+		},
+		{
+			"name": "baki",
+			"meaning": "One who is black in complexion."
+		},
+		{
+			"name": "bako",
+			"meaning": "A male child who was born after the arrival of visitors in a household."
+		},
+		{
+			"name": "bakwai",
+			"meaning": "A seventh male child in a family."
+		},
+		{
+			"name": "babangida",
+			"meaning": "This name is given to a child who bears the same name with his grandfather in a family and because in-laws are shy to directly call the child by his normal name, they nickname him Babangida, master of the household."
+		},
+		{
+			"name": "bara",
+			"meaning": "A first male child who was born after his siblings are all females. Bara in Hausa means to beg i.e they begged him out."
+		},
+		{
+			"name": "balarabe",
+			"meaning": "male child born on wednesday"
+		},
+		{
+			"name": "barau",
+			"meaning": "A remaining son who was born after his successors are dying."
+		},
+		{
+			"name": "bashir",
+			"meaning": "someone who brings good news"
+		},
+		{
+			"name": "bawa",
+			"meaning": "A male child who was brought up by another woman, that was not his mother."
+		},
+		{
+			"name": "bilal",
+			"meaning": "a companion of the prophet"
+		},
+		{
+			"name": "dadba",
+			"meaning": "A son who was born of relative couples."
+		},
+		{
+			"name": "danasabe",
+			"meaning": "child born on saturday"
+		},
+		{
+			"name": "dangali",
+			"meaning": "An only son in a family."
+		},
+		{
+			"name": "danjuma",
+			"meaning": "male child born on friday"
+		},
+		{
+			"name": "danladi",
+			"meaning": "male child born on Sunday"
+		},
+		{
+			"name": "danlami",
+			"meaning": "male child born on Thursday"
+		},
+		{
+			"name": "daran",
+			"meaning": "born at night, small and great"
+		},
+		{
+			"name": "dare",
+			"meaning": "means born at night, small and great"
+		},
+		{
+			"name": "daren",
+			"meaning": "means born at night, small and great"
+		},
+		{
+			"name": "Ɗari",
+			"meaning": "One who was born during the excess cold."
+		},
+		{
+			"name": "‘Dari",
+			"meaning": "One who was born during the excess cold."
+		},
+		{
+			"name": "dawo",
+			"meaning": "A male child who was born when his mother was pounding millet delicacy used in preparing Hura."
+		},
+		{
+			"name": "dawi",
+			"meaning": "A male child who was born in a season when his father harvested plentiful bundles of Guinea-corn."
+		},
+		{
+			"name": "dandawo",
+			"meaning": "A male child who was born when his mother was pounding millet delicacy used in preparing Hura."
+		},
+		{
+			"name": "duna",
+			"meaning": "One who is black in complexion."
+		},
+		{
+			"name": "fari",
+			"meaning": "A person who was fair in complexion."
+		},
+		{
+			"name": "faruq",
+			"meaning": "the distinguisher of truth from falsehood"
+		},
+		{
+			"name": "faisal",
+			"meaning": "decisive"
+		},
+		{
+			"name": "fuad",
+			"meaning": "heart"
+		},
+		{
+			"name": "gaddo",
+			"meaning": "means inheritor"
+		},
+		{
+			"name": "gambo",
+			"meaning": "a child after twins"
+		},
+		{
+			"name": "gerau",
+			"meaning": "A male child who was born in a season when his father harvested abundant bundles of Millet stalks."
+		},
+		{
+			"name": "gowon",
+			"meaning": "rainmaker"
+		},
+		{
+			"name": "guntau",
+			"meaning": "short man"
+		},
+		{
+			"name": "hankurau",
+			"meaning": "A husband who was extremely patient in a community."
+		},
+		{
+			"name": "hassan",
+			"meaning": "means good, beautiful, beautifier"
+		},
+		{
+			"name": "hussain",
+			"meaning": "first boy in a set of twins"
+		},
+		{
+			"name": "hussain",
+			"meaning": "second boy in a set of twins"
+		},
+		{
+			"name": "habib",
+			"meaning": "beloved"
+		},
+		{
+			"name": "hadi",
+			"meaning": "calm person"
+		},
+		{
+			"name": "hafiz",
+			"meaning": "a guardian or protector"
+		},
+		{
+			"name": "hamzah",
+			"meaning": "lion"
+		},
+		{
+			"name": "hana",
+			"meaning": "A male child who was born in a family while they are mourning the death of a family member."
+		},
+		{
+			"name": "hantsi",
+			"meaning": "A male child who was born at dawn."
+		},
+		{
+			"name": "hwari",
+			"meaning": "A person who was fair in complexion."
+		},
+		{
+			"name": "imam",
+			"meaning": "leader"
+		},
+		{
+			"name": "isa",
+			"meaning": "Jesus"
+		},
+		{
+			"name": "ismaila",
+			"meaning": "Ishmael"
+		},
+		{
+			"name": "jalil",
+			"meaning": "exalted"
+		},
+		{
+			"name": "jamal",
+			"meaning": "beauty and grace"
+		},
+		{
+			"name": "jariri",
+			"meaning": "One who was extremely thin at the time of birth."
+		},
+		{
+			"name": "jatau",
+			"meaning": "A person who was fair in complexion."
+		},
+		{
+			"name": "jibril",
+			"meaning": "archangel"
+		},
+		{
+			"name": "jigo",
+			"meaning": "Leader. An only son born in the midst of sisters, so he is their leader."
+		},
+		{
+			"name": "jika",
+			"meaning": "Grandson to a person. A person who bore someone's grandchild name."
+		},
+		{
+			"name": "Kadaɗe",
+			"meaning": "A male child who was born after his parents have been baren for years before he was eventually born."
+		},
+		{
+			"name": "Kadad’e",
+			"meaning": "A male child who was born after his parents have been baren for years before he was eventually born."
+		},
+		{
+			"name": "kaka",
+			"meaning": "A person who bore someone's grandparents names."
+		},
+		{
+			"name": "kane",
+			"meaning": "Younger brother to one."
+		},
+		{
+			"name": "karami",
+			"meaning": "thin man or younger one."
+		},
+		{
+			"name": "kasu",
+			"meaning": "A male child who was born at the market or on market day."
+		},
+		{
+			"name": "kasuwa",
+			"meaning": "A male child who was born at the market or on market day."
+		},
+		{
+			"name": "kokari",
+			"meaning": "A person who was hardworking in a community."
+		},
+		{
+			"name": "korau",
+			"meaning": "One who was born when his mother was divorced."
+		},
+		{
+			"name": "kulau",
+			"meaning": "A most loved male child in a family."
+		},
+		{
+			"name": "madugu",
+			"meaning": "A male child who was born during travel or born in the process of travelling."
+		},
+		{
+			"name": "makau",
+			"meaning": "A male child who was born when it was raining cat and dog in a community."
+		},
+		{
+			"name": "makao",
+			"meaning": "A male child who was born when it was raining cat and dog in a community."
+		},
+		{
+			"name": "maidawa",
+			"meaning": "A male child who was born in a season when his father harvested plentiful bundles of Guinea-corn."
+		},
+		{
+			"name": "maifari",
+			"meaning": "A male child who was born during the drought season."
+		},
+		{
+			"name": "maihwari",
+			"meaning": "A male child who was born during the drought season."
+		},
+		{
+			"name": "maigero",
+			"meaning": "- A male child who was born in a season when his father harvested abundant bundles of Millet stalks."
+		},
+		{
+			"name": "maikasuwa",
+			"meaning": "a trader or a merchant"
+		},
+		{
+			"name": "maikudi",
+			"meaning": "a rich one or wealthy"
+		},
+		{
+			"name": "mailafiya",
+			"meaning": "A person who is calm and easygoing with people in a community."
+		},
+		{
+			"name": "mailahiya",
+			"meaning": "A person who is calm and easygoing with people in a community."
+		},
+		{
+			"name": "maiwake",
+			"meaning": "- A male child who was born in a season when his father harvested a lot of beans."
+		},
+		{
+			"name": "nagoma",
+			"meaning": "A tenth male child in a family."
+		},
+		{
+			"name": "nagona",
+			"meaning": "A male child who was born at the farm."
+		},
+		{
+			"name": "nahantsi",
+			"meaning": "A male child who was born at dawn."
+		},
+		{
+			"name": "nanoma",
+			"meaning": "A male child who was born at the farm."
+		},
+		{
+			"name": "nomau",
+			"meaning": "A male who was born during the farming season."
+		},
+		{
+			"name": "rago",
+			"meaning": "ram"
+		},
+		{
+			"name": "rashidi",
+			"meaning": "means rightly guided, of true faith, mature"
+		},
+		{
+			"name": "ruwa",
+			"meaning": "water bearer"
+		},
+		{
+			"name": "sarki",
+			"meaning": "One who has King name. A male child who bore kings name in a kingdom."
+		},
+		{
+			"name": "shekarau",
+			"meaning": "A baby who make a year in his mother's womb."
+		},
+		{
+			"name": "shibkau",
+			"meaning": "A male who was born during the sowing season."
+		},
+		{
+			"name": "tahir",
+			"meaning": "pure"
+		},
+		{
+			"name": "taminu",
+			"meaning": "means boy born on Litinnin or Monday"
+		},
+		{
+			"name": "tanko",
+			"meaning": "A brother to female children in a family."
+		},
+		{
+			"name": "tawaye",
+			"meaning": "brother to twins"
+		},
+		{
+			"name": "tunau",
+			"meaning": "Can be called Tuni meaning remembering birth. A male child who was born after his mother took a long time before she conceived another pregnancy."
+		},
+		{
+			"name": "umar",
+			"meaning": "lifetime"
+		},
+		{
+			"name": "usman",
+			"meaning": "companion"
+		},
+		{
+			"name": "yakubu",
+			"meaning": "Jacob"
+		},
+		{
+			"name": "yarima",
+			"meaning": "Prince. A male child who bore a respected prince name in a kingdom."
+		},
+		{
+			"name": "yohance",
+			"meaning": "means Yahweh is gracious, Yahweh is merciful"
+		},
+		{
+			"name": "yohanna",
+			"meaning": "john"
+		},
+		{
+			"name": "yusuf",
+			"meaning": "joseph"
+		}
+	]
+}
